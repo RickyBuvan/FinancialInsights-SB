@@ -1,4 +1,4 @@
-package com.ideas.financialInsights;
+package ideas.financial.insights;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -9,5 +9,4 @@ class FinancialInsightsApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }

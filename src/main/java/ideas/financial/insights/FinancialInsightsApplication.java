@@ -1,4 +1,4 @@
-package com.ideas.financialInsights;
+package ideas.financial.insights;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class FinancialInsightsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FinancialInsightsApplication.class, args);
 	}
-
 }
