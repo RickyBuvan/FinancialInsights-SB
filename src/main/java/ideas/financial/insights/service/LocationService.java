@@ -36,6 +36,6 @@ public interface LocationService {
 	public List<TravelDestination> getTravelDestinationsByDistrict(String district);
 
 	public List<TravelDestination> getTravelDestinationsByState(String state);
-
+//Sample Comment
 	public List<TravelDestination> getTravelDestinationsByCountry(String country);
 }
